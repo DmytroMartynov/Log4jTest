@@ -8,3 +8,8 @@
 2019-05-20 13:51:22 INFO  root:19 - Root Logger: This is some message
 2019-05-20 13:51:22 ERROR User:31 - error message: null
 2019-05-20 13:51:22 FATAL User:32 - fatal error message: null
+2019-05-20 13:56:57 INFO  User:16 - This is some message
+2019-05-20 13:56:57 INFO  User:17 - 2048399357
+2019-05-20 13:56:57 INFO  root:19 - Root Logger: This is some message
+2019-05-20 13:56:57 ERROR User:31 - error message: null
+2019-05-20 13:56:57 FATAL User:32 - fatal error message: null
