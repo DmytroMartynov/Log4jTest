@@ -1,0 +1,10 @@
+2019-05-20 13:45:03 INFO  OrderLogic:13 - Это информационное сообщение!
+2019-05-20 13:45:03 ERROR OrderLogic:21 - Это сообщение ошибки
+2019-05-20 13:50:26 INFO  User:16 - This is some message
+2019-05-20 13:50:26 INFO  User:17 - 1934480533
+2019-05-20 13:50:26 INFO  root:19 - Root Logger: This is some message
+2019-05-20 13:51:22 INFO  User:16 - This is some message
+2019-05-20 13:51:22 INFO  User:17 - 1965166878
+2019-05-20 13:51:22 INFO  root:19 - Root Logger: This is some message
+2019-05-20 13:51:22 ERROR User:31 - error message: null
+2019-05-20 13:51:22 FATAL User:32 - fatal error message: null
